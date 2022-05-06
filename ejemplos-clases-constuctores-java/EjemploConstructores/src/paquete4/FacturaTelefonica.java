@@ -16,7 +16,6 @@ public class FacturaTelefonica {
         numeroTelefono = numTel;
         minutosMes = mMes;
         valorMinuto = vMinuto;
-        
     }
 
     public void establecerNumeroTelefono(String c) {
